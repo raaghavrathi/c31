@@ -1,2 +1,2 @@
-# c31
-made the smoke trail behind the bird
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
